@@ -18,9 +18,9 @@
 </div>
 
 
-### man_technologist: About Me :
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">About Me :
 
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+I am a Python Developer  from Uzbekistan.
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with e
 - 📫 How to reach me: arslansultanov01@gmail.com
