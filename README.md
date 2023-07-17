@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=sollex551&style=flat-square&color=blue" alt=""/>
 <!--
 Here are some ideas to get you started:
 - 🌱 I’m currently learning python
