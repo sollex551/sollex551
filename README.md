@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/emote-catjam-jpbnoe3UIa8TU8LM13" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <!--
 **sollex551/sollex551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
