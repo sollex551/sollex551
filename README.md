@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="100"/>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <h1>
-    hey there
+    welcome brooo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
