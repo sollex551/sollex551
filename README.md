@@ -18,13 +18,11 @@
 </div>
 
 
+### man_technologist: About Me :
 
-<!--
-Here are some ideas to get you started:
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with e
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: arslansultanov01@gmail.com
+
 -->
