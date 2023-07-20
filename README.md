@@ -34,7 +34,7 @@ I am a Python Developer  from Uzbekistan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SqLite" alt="SqLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGresql" alt="PostGresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edgica.com%2Fexpand-your-knowledge-python-django-framework%2F&psig=AOvVaw3mUkZ7NCMo-nlhCEIUvnI8&ust=1689925317332000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjLlcXknIADFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edgica.com%2Fexpand-your-knowledge-python-django-framework%2F&psig=AOvVaw3mUkZ7NCMo-nlhCEIUvnI8&ust=1689925317332000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjLlcXknIADFQAAAAAdAAAAABAD" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/415/393/png-transparent-django-plain-logo-icon.png" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   
 </div>
 
